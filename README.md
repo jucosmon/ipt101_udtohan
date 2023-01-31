@@ -1,5 +1,5 @@
 # Udtohan's Project
-A brief description of what this project does and who it's for
+This project is for our subject IPT101. 
 
 ## Authors
 * [@jucosmon](https://github.com/jucosmon)
