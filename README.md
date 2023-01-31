@@ -5,5 +5,5 @@ A brief description of what this project does andn who it's for
 * [@jucosmon](https://github.com/jucosmon)
 
 ## Sample Code
-printf('Hello World!'_;
+printf('Hello World!');
 
