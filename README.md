@@ -23,6 +23,6 @@ printf('Hello World!');
 
 ## Favorite Quote
 
-"Don't stop until you're not proud of yourself"
+"Don't stop until you're proud of yourself"
 
 Added installation instructions
