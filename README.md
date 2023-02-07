@@ -25,4 +25,4 @@ printf('Hello World!');
 
 "Don't stop until you're proud of yourself"
 
-Added installation instructions
+"Time is money"
