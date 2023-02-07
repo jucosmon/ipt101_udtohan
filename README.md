@@ -26,3 +26,8 @@ printf('Hello World!');
 "Don't stop until you're proud of yourself"
 
 "Time is money"
+
+```c
+printf("I''m scared living this life.");
+
+```
