@@ -26,3 +26,9 @@ printf('Hello World!');
 "Don't stop until you're proud of yourself"
 
 "Time is money"
+
+## My advice for career
+```c
+1. Practice makes improvement. Code everyday.
+
+```
