@@ -32,6 +32,8 @@ printf('Hello World!');
 1. Practice makes improvement. Code everyday.
 
 New Feature
+
 2. Make personal projects.
+3. Spend unhealthy amount of time to the things you want to be good at.
 
 ```
